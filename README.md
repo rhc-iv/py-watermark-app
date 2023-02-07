@@ -4,4 +4,4 @@ From **Day 84** of **100 Days Of Python** taught by _Angela Yu_. This is a deskt
 
 Note that the directories used in the code are endimic to my computer file structure. The logo for the GUI and the watermark are also my own creations.
 
-![alt text](http://url/to/img.png)
+![Desktop Watermark App](https://github.com/rhc-iv/py-watermark-app/blob/main/screenshot.png)
