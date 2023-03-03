@@ -1,7 +1,35 @@
-# Python Desktop Watermark App
+<h1 align="center">Welcome to (Python) Desktop Watermarking App 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.10-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/rhc\_iv" target="_blank">
+    <img alt="Twitter: rhc\_iv" src="https://img.shields.io/twitter/follow/rhc\_iv.svg?style=social" />
+  </a>
+</p>
 
-From **Day 84** of **100 Days Of Python** taught by _Angela Yu_. This is a desktop app, written in **Python** that uses the `tkinter` and `pillow` libaries & allows the user to browse their computer, select an image (in the case of this particular app, .png files), then add a watermark to the selected image and save it.
+> Desktop application made with Python to watermark personal images.
 
-Note that the directories used in the code are endimic to my computer file structure. The logo for the GUI and the watermark are also my own creations.
+### 🏠 [Homepage](https://github.com/rhc-iv/py-watermark-app)
 
-![Desktop Watermark App](https://github.com/rhc-iv/py-watermark-app/blob/main/screenshot.png)
+## Usage
+
+```sh
+Open and run `main.py` in the editor/IDE of your choice.
+```
+
+## Author
+
+👤 **Robert H. Carr, IV**
+
+* Twitter: [@rhc\_iv](https://twitter.com/rhc\_iv)
+* Github: [@rhc-iv](https://github.com/rhc-iv)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/rhc-iv/py-watermark-app/issues). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
