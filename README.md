@@ -9,9 +9,10 @@
   </a>
 </p>
 
+### 🛋️ [Homepage](https://github.com/rhc-iv/py-watermark-app)
+---
 > Desktop application made with Python to watermark personal images.
 
-### 🛋️ [Homepage](https://github.com/rhc-iv/py-watermark-app)
 
 ## Usage
 
