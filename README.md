@@ -13,10 +13,16 @@
 ---
 > Desktop application made with Python to watermark personal images.
 
+<p align="center">
+  <img alt="Image Watermarking App" src="https://github.com/rhc-iv/py-watermark-app/blob/main/screenshot.png" width="800" height="600" />
+</p>
 
 ## Usage
 
 - Open and run `main.py` in the editor/IDE of your choice.
+- _**Browse**_ to open a file dialog frow image browsing on your computer.
+- _**Cancel**_ to cancel the operation and return to the main app GUI.
+- _**Close**_ to exit the app.
 
 
 ## 👤 Author
